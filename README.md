@@ -1,6 +1,6 @@
 ### [Open Figma Complete Design for Hurry](https://www.figma.com/community/file/1083496650831566409)
 
-# Bringing Gnosis Safe to Surface With Desig
+# Bringing Gnosis Safe to Surface With Design
 ## We always need security for our favorite things, and now at WEB3 we use it again to protect our digital assets.
 
 Everything begins in the Codless Conduct, a Hackathon hosted on Gitcoin for anyone who wants to use their good abilities outside coding to learn and earn from web3. 
@@ -212,9 +212,9 @@ The bounty I'm submitting now was very interesting to think about. Gnosis Safe h
 
 And an example for reaching all kinds of audiences besides NFT collectors, it's all here, where people can explore and browse digital assets held and held on the blockchain.
 
-Being practically a revolution in the world of properties, I hope you enjoyed it a lot.
+Being practically a revolution in the world of properties, **I hope you enjoyed it a lot <3.**
 
-Be sure to stop by Figma and take a look at the project, as it is Open-Source.
+And please be sure to open Figma and take a closer look at the project, it is Open-Source :D
 
 # Left Screens
 
