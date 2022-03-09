@@ -1,12 +1,12 @@
 # Bringing Gnosis Safe to Surface With Desig
-## With digital assets having value, the Internet turns the first place where you should show what you are protecting because they make it really safe.
+## We always need security for our favorite things, and now at WEB3 we use it again to protect our digital assets.
 
 Everything begins in the Codless Conduct, a Hackathon hosted on Gitcoin for anyone who wants to use their good abilities outside coding to learn and earn from web3. 
 
 And between the Bounties, where enterprises and companies put objectives to we accomplish, I found the better for me, and of course, it was design.
 
 # Gnosis Safe Design Exploration
-And the company is called Gnosis Safe. Intuitively name and business are the same here, it's a digital asset safe where you can have more security than holding in your own MetaMesk, for example.
+And the company is called Gnosis Safe. Intuitively name and business are the same here, it's a security service provide to people who wants to protect their assets, money and tokens.
 
 They have an entire system running now, where you can see your assets, check your tokens, create safes, and a lot of functions that agree with all the site promise.
 
@@ -36,6 +36,7 @@ This sentence turned the master key to a new improvement, and within this scenar
 
 ## Defining the Way
 With 3 problem statements in hand, we just need now to decide which way we're going to solve them. And I quickly decided on the best options:
+
 "A dApp where I can admire, save and share the best digital assets in the world"
 
 **1. Make communication intuitive:** so as not to scare off early adopters, the initial communication on the site will be much friendlier and not so businesslike. The user will feel that he has seen these types of vaults elsewhere.
@@ -77,11 +78,21 @@ So let's check out the finalization of all those concepts with prototyping.
 # Result
 In a very practical way, come with me and play with some user flow hypotheses.
 
-## Just Walking Around
 ## Found Someone That I Know
+
+![Profile](https://user-images.githubusercontent.com/73398891/157531966-c859293c-cd13-43e7-98bb-a44800d7c9d6.gif)
+
 ## Check Collection I've Heard About
+
+![Collection_Flow_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/73398891/157532561-1554f46e-7ac5-468b-8c6a-284d7cb58b23.gif)
+
 ## Seeing The Biggest Digital Asset Safe in The World
+
+![Safe_Flow](https://user-images.githubusercontent.com/73398891/157532304-a2fc6200-b277-4c41-bdeb-710eebd5700e.gif)
+
 ## Eat Some Brownies and Now I'm Tripping Hard With NFTs
+
+![Cinema_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/73398891/157532662-ed14c6ef-8f18-44c3-b4ac-ea5c1bf1f917.gif)
 
 ---
 
