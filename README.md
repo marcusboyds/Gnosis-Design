@@ -1,4 +1,4 @@
-# Bringing Gnosis Safe to Surface With Design
+# Bringing Gnosis Safe to Surface With Desig
 ## With digital assets having value, the Internet turns the first place where you should show what you are protecting because they make it really safe.
 
 Everything begins in the Codless Conduct, a Hackathon hosted on Gitcoin for anyone who wants to use their good abilities outside coding to learn and earn from web3. 
@@ -23,12 +23,15 @@ So I needed to search for anything that brings me a big opportunity to design an
 This sentence turned the master key to a new improvement, and within this scenario where we can admire public digital assets in any safe, other statements of User Experiences come together.
 
 **1. The Communication is niched:** you and I who are used to web3 will digest the site in a few seconds and understand what it is about, but a good portion of the curious who are entering now may give up understanding in the first 30 seconds.
+
 ![image](https://user-images.githubusercontent.com/73398891/157478514-9f5db7a6-d9cd-4348-af0c-a7a5c7799cc1.png)
 
 **2. Brand visuals not applied yet:** Gnosis Safe has one the best motion graphics videos I have ever seen in web3, but most part of their visual identity of them is not applied on the site.
+
 ![image](https://user-images.githubusercontent.com/73398891/157478562-43afcae6-e372-41aa-a1ab-5971f7ef08c7.png)
 
 **3. Only work on the app:** the way to the entire business work is through the application. An only way-stream on the company can be good for early establishments, but a for a medium and long-term is better to diversification the products.
+
 ![image](https://user-images.githubusercontent.com/73398891/157478706-5d0d5c2f-07c7-4f75-abc2-f9860bce7308.png)
 
 ## Defining the Way
@@ -85,72 +88,141 @@ In a very practical way, come with me and play with some user flow hypotheses.
 Now we've seen the how the site does work, check it out technacily all those parts, using the same page order I've cited before
 
 ## Home
-**Hero:** We start at home with a simple and shiny hero to bring atenction to ownsership and blockchain assets. Having 2 main call-to-actions, start experience and create a safe. Put 3 pitch cards to tell the Gnosis Safe relevance in market.![image](https://user-images.githubusercontent.com/73398891/157480441-28f8ed82-53e9-4f57-886a-723f46736dd9.png)
+### **Hero:** 
+We start at home with a simple and shiny hero to bring atenction to ownsership and blockchain assets. Having 2 main call-to-actions, start experience and create a safe. Put 3 pitch cards to tell the Gnosis Safe relevance in market.
+
+![image](https://user-images.githubusercontent.com/73398891/157480441-28f8ed82-53e9-4f57-886a-723f46736dd9.png)
 
 And scrolling just a little bit down we can already reach the entire UX Solution, the show of assets, they're divided in som
 
-**Trending Assets**: unique pieces separately from the all
-**Famous Collections:** the most hold collections at the Gnosis' Safes
-**Biggest Safes:** the main attraction for every digital collector and curious too see what it's about. 
-![image](https://user-images.githubusercontent.com/73398891/157480914-2c36bbcf-7a8c-4ffe-a8eb-66b7271d36ec.png)
+### **Trending Assets**: 
+Unique pieces separately from the all
+
+![Trending Assets](https://user-images.githubusercontent.com/73398891/157515052-d6d352fe-a142-4c3b-af03-8c08e0b96c8f.jpg)
+
+
+### **Famous Collections:** 
+The most hold collections at the Gnosis' Safes
+
+![Famous Collections](https://user-images.githubusercontent.com/73398891/157515079-94531d29-374f-4a88-975b-4085976edb81.jpg)
+
+### **Biggest Safes:** 
+The main attraction for every digital collector and curious too see what it's about. 
+
+![gallery](https://user-images.githubusercontent.com/73398891/157515277-2a359f2c-508d-4021-83d9-10063230762c.jpg)
 
 To less emotional people we have the list show too!
-![image](https://user-images.githubusercontent.com/73398891/157480891-ca732007-518f-47d6-bfbe-45a36e959bd7.png)
 
-**Recent Profiles:** important organizations and people who highlight at the week![image](https://user-images.githubusercontent.com/73398891/157480879-189cbe60-6ae1-405f-bb90-8c51efd53554.png)
+![List](https://user-images.githubusercontent.com/73398891/157515250-d627539e-c37e-4f84-8a03-e40022b7a3b8.jpg)
 
-**Footer:** this is not exclusively from home, but will put it here.
+
+### **Recent Profiles:** 
+Important organizations and people who highlight at the week
+
+![Profiles](https://user-images.githubusercontent.com/73398891/157515369-fe0a699d-8db3-4bad-80bb-08c9ffc318c5.jpg)
+
+### **Footer:** 
+This is not exclusively from home, but will put it here.
 
 ![Footer](https://user-images.githubusercontent.com/73398891/157483653-86802634-4fa3-44d2-85be-dd6e250cddca.jpg)
 
-
 ## Assets
 This is the default for every asset page
+
 ![Assets - Art](https://user-images.githubusercontent.com/73398891/157481094-3f4eacc4-bbc0-44db-873f-d5c3ecd9bf46.png)
+
 For a better design and organization, we have assets in main 4 types, just like programming languages. They only differentiate at proprieties.
 
-Art: 
+### Art
 
 ![image](https://user-images.githubusercontent.com/73398891/157481217-bafeee87-6e11-4c64-890a-e0c0d1db6117.png)
 
-Character:
+### Character
 
 ![image](https://user-images.githubusercontent.com/73398891/157481239-aad0627c-a4a2-4a7d-ba03-4f8e48d339cc.png)
 
-Music: 
+### Music
 
 ![image](https://user-images.githubusercontent.com/73398891/157481266-676d0c07-9dd4-4bf0-bb49-a8ee9086ac89.png)
 
-Video: 
+### Video 
 
 ![image](https://user-images.githubusercontent.com/73398891/157481284-60403942-9cb1-474d-8d7b-443fda44b471.png)
 
 Giving life and nature to all those types.
 
 ## Collections
-**Hero**: Where we have the collection splash and all the main information, like quantity of assets, the main type and total volume acquired and the safes where appears the collection.
+### **Hero**: 
+Where we have the collection splash and all the main information, like quantity of assets, the main type and total volume acquired and the safes where appears the collection.
 
-**Body**: Where you can check all the assets, and others complementary info like description, minted chain, artist, trade history and more of the safes.
+### **Body**: 
+Where you can check all the assets, and others complementary info like description, minted chain, artist, trade history and more of the safes.
 
-**Related Content**: For mainting the user at the navigation flow, we use the related and recommended contet to he keep hours looking for something.
+### **Related Content**: 
+For mainting the user at the navigation flow, we use the related and recommended contet to he keep hours looking for something.
+
 ![Collection](https://user-images.githubusercontent.com/73398891/157481385-6e82c857-e3fa-46cb-a770-1d991173a12c.jpg)
 
 ## Safes
-**Hero**: The main of the main, here we show as aspects of a Safe hold in Gnosis Safe. Value acquired, how much collections and assets too. And show the princiapal owners of the safe.
+### **Hero**: 
+The main of the main, here we show as aspects of a Safe hold in Gnosis Safe. Value acquired, how much collections and assets too. And show the princiapal owners of the safe.
 
-**Body**: Where you can check all the assets, and others complementary info like description, minted chain, artist, trade history and a list of principal owners too.
+### **Body**: 
+Where you can check all the assets, and others complementary info like description, minted chain, artist, trade history and a list of principal owners too.
 
-**Related Content**: For mainting the user at the navigation flow, we use the related and recommended contet to he keep hours looking for something.
-
+### **Related Content**: 
+For mainting the user at the navigation flow, we use the related and recommended contet to he keep hours looking for something.
 
 ![Safe](https://user-images.githubusercontent.com/73398891/157481437-a8802c3d-309c-46de-9425-6d605b7e109b.jpg)
 
+## Profiles
+
+### **Hero**: 
+Showing all best people informations, like followers, collections and even their social media to follow
+
+### **Body**: 
+Where you can check all the assets, safes owned and trade history
+
+### **Related Content**: 
+For mainting the user at the navigation flow, we use the related and recommended contet to he keep hours looking for something.
+
+![Profile Person](https://user-images.githubusercontent.com/73398891/157521497-9be52578-d8d5-4af9-a521-7598242b2191.jpg)
+
 ## Cinema Mode
 
-For a better apreciation a cinema mode was made to people really see the beauty and the value of all assets inside Gnosis. We contain the same components of the normal mode, as names
+Cinema mode was made to people see the **beauty and the value of all assets inside Gnosis.** It contains the same components of the normal mode, as names, values and another thing that made a asset an asset
 
 ![Day Within Site - Cinema](https://user-images.githubusercontent.com/73398891/157485625-3adc333e-6db3-46e1-ade5-994088a7f5eb.jpg)
 
 # Conclusion
+The bounty I'm submitting now was very interesting to think about. Gnosis Safe has a primordial and fundamental business model at the beginning of the web3, I foresee several models and types of safes with several innovations for their insurers.
 
-# All Screens
+And an example for reaching all kinds of audiences besides NFT collectors, it's all here, where people can explore and browse digital assets held and held on the blockchain.
+
+Being practically a revolution in the world of properties, I hope you enjoyed it a lot.
+
+Be sure to stop by Figma and take a look at the project, as it is Open-Source.
+
+# Left Screens
+
+## Profile DAO
+![Profile DAO](https://user-images.githubusercontent.com/73398891/157521736-224a051b-3e76-4459-845c-8a2cd24dd55a.jpg)
+
+## Character
+![Assets - Character](https://user-images.githubusercontent.com/73398891/157521854-970d0f7a-f45d-43ac-8351-2ebdc1a692a0.png)
+
+## Music
+![Assets - Music](https://user-images.githubusercontent.com/73398891/157521865-f6888db2-4330-437f-a2f9-265d2451e942.jpg)
+
+## Video
+![Assets - Video](https://user-images.githubusercontent.com/73398891/157521873-7770091c-4b8d-43fd-83dc-cf6b81546af4.jpg)
+
+## Cinema Character
+![#5810 - Cinema](https://user-images.githubusercontent.com/73398891/157521966-7867f280-d827-4cf8-bead-738bcef9765c.jpg)
+
+## Cinema Music
+![Maquina do Tempo - Cinema](https://user-images.githubusercontent.com/73398891/157521977-37a6dc57-1db1-41b5-8c6b-acdddb06a223.jpg)
+
+## Cinema Video
+![Fractal Size - Cinema](https://user-images.githubusercontent.com/73398891/157521957-32e8133a-3250-44bd-9472-c855428ae17d.jpg)
+
