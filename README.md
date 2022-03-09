@@ -1,3 +1,5 @@
+# [Open Figma Complete Design for Hurry]()
+
 # Bringing Gnosis Safe to Surface With Desig
 ## We always need security for our favorite things, and now at WEB3 we use it again to protect our digital assets.
 
